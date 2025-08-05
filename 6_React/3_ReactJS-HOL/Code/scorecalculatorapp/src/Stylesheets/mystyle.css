@@ -1,0 +1,19 @@
+.score-card {
+  background-color: #f3eded;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px auto;
+  max-width: 400px;
+  text-align: left;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.score-card h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.score-card p {
+  margin: 5px 0;
+  font-size: 16px;
+}
